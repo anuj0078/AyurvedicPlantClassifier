@@ -13,7 +13,9 @@ For more database information data > db_model.py
 Step 3: Create a virtualenv
 
 Step 4: Install all packages
+
 pip install -r requirement.txt
 
-Step 5: Run FLask server
+Step 5: Run Flask server
+
 python app.py
